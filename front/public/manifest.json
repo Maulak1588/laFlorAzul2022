@@ -1,0 +1,9 @@
+{
+  "short_name": "La Flor Azul",
+  "name": "y otros cuentos",
+  
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
